@@ -1,5 +1,5 @@
  The new script integrates an mqtt client using paho mqtt. 
-          `pip install _paho-mqtt`_
+          <code>pip install _paho-mqtt</code>
  You need the battery tender library installed also, that instruction is in the README
  for the original repo AND my fork Scroll down if you need to start with that.
  Once running you can listen to mqtt topic "battender/#" to see all relevant messages. 
